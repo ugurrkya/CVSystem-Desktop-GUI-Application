@@ -1,4 +1,4 @@
-# CVSystem-Desktop-Application
+# CVSystem Desktop Application
 It's a platform which provides a connection between Human Resources Managers and employees about CV transactions.
 # Development Details
 - NetBeans
